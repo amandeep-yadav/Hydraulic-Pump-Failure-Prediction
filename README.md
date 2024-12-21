@@ -75,7 +75,7 @@ The target condition values are cycle-wise annotated in a file (`profile.txt`) w
    - 1: Static conditions might not have been reached yet
 
 ### Dataset Source
-If the dataset is publicly available, provide a link or details about how it can be accessed.
+(https://www.kaggle.com/datasets/mayank1897/condition-monitoring-of-hydraulic-systems/data)
 
 ## Installation
 1. Clone the repository:
