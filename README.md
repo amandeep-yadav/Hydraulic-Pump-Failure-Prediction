@@ -80,7 +80,7 @@ The target condition values are cycle-wise annotated in a file (`profile.txt`) w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/predictive-maintenance-hydraulic-system.git
+   git clone https://github.com/amandeep-yadav/predictive-maintenance-hydraulic-system.git
    ```
 2. Navigate to the project directory:
    ```bash
