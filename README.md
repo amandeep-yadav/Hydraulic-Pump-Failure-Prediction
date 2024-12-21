@@ -115,7 +115,7 @@ The target condition values are cycle-wise annotated in a file (`profile.txt`) w
    - Visualize results.
 3. Modify parameters or add new features as needed for experimentation.
 ## Workflow
-
+![Workflow Diagram](https://github.com/amandeep-yadav/Hydraulic-Pump-Failure-Prediction/blob/main/Untitled%20diagram-2024-12-21-143600.png)
 ## Results
 - Detailed analysis of hydraulic system failures.
 - Evaluation metrics such as accuracy, precision, recall, and F1-score for the predictive models.
