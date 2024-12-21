@@ -114,6 +114,7 @@ The target condition values are cycle-wise annotated in a file (`profile.txt`) w
    - Evaluate performance metrics.
    - Visualize results.
 3. Modify parameters or add new features as needed for experimentation.
+## Workflow
 
 ## Results
 - Detailed analysis of hydraulic system failures.
